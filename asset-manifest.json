@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-platzi/static/css/main.14656b4f.css",
+    "main.js": "/todo-platzi/static/js/main.8667d903.js",
+    "index.html": "/todo-platzi/index.html",
+    "main.14656b4f.css.map": "/todo-platzi/static/css/main.14656b4f.css.map",
+    "main.8667d903.js.map": "/todo-platzi/static/js/main.8667d903.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14656b4f.css",
+    "static/js/main.8667d903.js"
+  ]
+}
